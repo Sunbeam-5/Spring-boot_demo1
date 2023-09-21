@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+mytest2: 李四
+
+# 自定对象
+student:
+  id: 1
+  name: Isbella
+  age: 20
