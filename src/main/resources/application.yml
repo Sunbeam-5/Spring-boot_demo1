@@ -8,3 +8,8 @@ student:
   id: 1
   name: Isbella
   age: 20
+
+# 设置日志级别
+logger:
+  level:
+    root: debug
